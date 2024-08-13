@@ -1,0 +1,14 @@
+{
+  "name": "FurnaceV1",
+  "type": "project",
+  "description": "",
+  "homepage": "",
+  "license": "",
+  "format": "",
+  "folder": "depotify_kit",
+  "authors": [],
+  "require": {
+    "MithrilJS/mithril.js": "^2.2.3"
+  },
+  "scripts": {}
+}
